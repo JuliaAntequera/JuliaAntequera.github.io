@@ -65,10 +65,9 @@ main{
 }
 
 section iframe{
-    width: 500;
+    width: 600px;
     height: 350px;
     display: inline-block;
-    text-align: center;
     align-items: center;
 }
 section{
@@ -78,8 +77,8 @@ section img{
     width: 300px; 
     height: 300px;
     display: inline-block;
-    text-align: center;
     align-items: center;
+
 
 }
 
