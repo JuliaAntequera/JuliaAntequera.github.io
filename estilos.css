@@ -64,14 +64,23 @@ main{
     margin-right: 70px;
 }
 
-.video{
-    margin-left: 550px;
+section iframe{
+    width: 500;
+    height: 350px;
+    text-align: center;
+    display: inline-block;
 }
-
-.imagen{
-    height: 330px;
-    width: 340px;
-    margin-left: 155px;   
+section{
+    text-align: center;
+}
+section img{
+    text-align: center;
+    width: 340px; 
+    display: inline-block;
+    margin: 0 10px;
+}
+section p, section ul{
+    text-align: left;
 }
 
 footer{
